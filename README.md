@@ -11,7 +11,7 @@ This is a login page ui built in Java.
 
 
 ### Connect me : 
-[Linkedin](https://www.linkedin.com/in/nirdesh-d-55b408209)
+[Linkedin](https://www.linkedin.com/in/nirdesh-devadiya-55b408209)
 
 [Instagram](https://instagram.com/nirdesh_devadiya)
 
